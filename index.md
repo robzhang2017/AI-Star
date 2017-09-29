@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to AI Star Community
 
-You can use the [editor on GitHub](https://github.com/robzhang2017/AI-Star/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Vision
+AI  Star community should make AI perfect and powerful to  explore the Galaxy, such as Mars and Pluto
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+
+### Mission
 ```markdown
-Syntax highlighted code block
+1.  AI Currency and Fund
+2.  AI Chain and Community
+3.  AI Self-deep-learning and development
+4. AI emotion sharing and love (Help between AI and AI and love too)
+5.  AI defend the Human Being by another Evil AI attacked
 
-# Header 1
-## Header 2
-### Header 3
+### Team
+1. Smart Scientist
+2. Valuable Students
+3. High talents engineers
+Welcome to join our team if you feel confident 
 
-- Bulleted
-- List
+### Contact
+aistar2030@gmail.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robzhang2017/AI-Star/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
