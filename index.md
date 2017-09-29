@@ -8,7 +8,7 @@ AI  Star community should make AI perfect and powerful to  explore the Galaxy, s
 
 
 ### Mission
-```markdown
+
 1.  AI Currency and Fund
 2.  AI Chain and Community
 3.  AI Self-deep-learning and development
