@@ -1,3 +1,4 @@
+<img src="http://www.aistar.io/ai_star_2_logo.PNG" alt="" style="max-width:30%; border: 1px solid grey;"/> 
 ## Welcome to AI Star Community
 
 
